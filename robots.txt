@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://major.pirerock.gotdns.com/sitemap/map0_1.xml
+Sitemap : https://major.pirerock.gotdns.com/sitemap/map0_2.xml
+Sitemap : https://major.pirerock.gotdns.com/sitemap/map0_3.xml
+Sitemap : https://major.pirerock.gotdns.com/sitemap/map0_4.xml
+Sitemap : https://major.pirerock.gotdns.com/sitemap/map0_5.xml
+Sitemap : https://major.pirerock.gotdns.com/sitemap/map0_6.xml
